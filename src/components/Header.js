@@ -13,7 +13,7 @@ const Header = () => {
     <header className="header">
       <div className="header-container">
         <div className="logo-container">
-          <img src="/logo.jpg" alt="Relais RH Logo" className="logo" />
+          <img src={`${process.env.PUBLIC_URL}/logo.jpg`} alt="Relais RH Logo" className="logo" />
           <span className="logo-text">Relais RH</span>
         </div>
         <button className="hamburger" onClick={toggleMenu}>
