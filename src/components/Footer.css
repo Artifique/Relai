@@ -1,0 +1,73 @@
+
+.footer {
+  background-color: #333;
+  color: #FFFFFF;
+  padding: 3rem 2rem 1rem;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto 2rem auto;
+  gap: 2rem;
+}
+
+.footer-about, .footer-links, .footer-social {
+  flex: 1;
+  min-width: 250px;
+}
+
+.footer h4 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  color: #87CEEB; /* Sky Blue */
+}
+
+.footer p {
+  margin-bottom: 0.5rem;
+  color: #ccc;
+}
+
+.footer-links ul {
+  list-style: none;
+}
+
+.footer-links a {
+  color: #ccc;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.footer-links a:hover {
+  color: #FFFFFF;
+}
+
+.social-icons a {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 1.5rem;
+  margin-right: 1rem;
+  /* Replace with actual icons later */
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: #555;
+  transition: background-color 0.3s ease;
+}
+
+.social-icons a:hover {
+  background-color: #87CEEB; /* Sky Blue */
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 1rem;
+  border-top: 1px solid #555;
+}
