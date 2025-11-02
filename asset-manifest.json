@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Relai/static/css/main.95fa4e37.css",
-    "main.js": "/Relai/static/js/main.42076c8f.js",
+    "main.js": "/Relai/static/js/main.13634774.js",
     "static/js/453.9e743b8a.chunk.js": "/Relai/static/js/453.9e743b8a.chunk.js",
     "index.html": "/Relai/index.html",
     "main.95fa4e37.css.map": "/Relai/static/css/main.95fa4e37.css.map",
-    "main.42076c8f.js.map": "/Relai/static/js/main.42076c8f.js.map",
+    "main.13634774.js.map": "/Relai/static/js/main.13634774.js.map",
     "453.9e743b8a.chunk.js.map": "/Relai/static/js/453.9e743b8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95fa4e37.css",
-    "static/js/main.42076c8f.js"
+    "static/js/main.13634774.js"
   ]
 }
